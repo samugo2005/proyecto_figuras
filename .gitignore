@@ -1,3 +1,5 @@
 *.txt
 !importante.txt
 !*/importante.txt
+*.pyc
+__pycache__/
